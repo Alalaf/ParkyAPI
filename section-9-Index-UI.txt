@@ -1,9 +1,3 @@
-﻿
-@{
-    ViewData["Title"] = "Index";
-}
-
-<br />
 <div class="p-4" style="border-radius:20px;">
     <div class="row">
         <div class="col-6">
@@ -27,7 +21,3 @@
         </table>
     </div>
 </div>
-
-@section Scripts{ 
-<script src="~/js/NationalPark.js"></script>
-}
